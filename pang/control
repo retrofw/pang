@@ -1,0 +1,10 @@
+Package: pang
+Version: 
+Description: RetroGame port of Pang
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/pang
+Depends:
+Source: https://github.com/retrofw/pang

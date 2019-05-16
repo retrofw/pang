@@ -1,0 +1,4 @@
+title=Pang
+description=Pang port
+exec=/home/retrofw/games/pang/pang.elf
+clock=600
