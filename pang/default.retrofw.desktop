@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pang
+Comment=Pang port
+Exec=pang.dge
+Icon=pang
+Categories=games;
+Terminal=false
+Type=Application
+StartupNotify=true
